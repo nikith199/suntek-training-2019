@@ -1,3 +1,4 @@
+//modular exponentation
 #include <stdio.h>  
   
 int exponentMod(int A, int B, int C) 
